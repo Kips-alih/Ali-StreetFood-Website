@@ -51,3 +51,11 @@ img{
 #contacts>p{
     text-align: center;
 }
+h6{
+    border: 1px solid #6CB840;
+    width:50px ;
+    border-radius: 5px;
+    background-color: #6CB840;
+    position: relative;
+    left: 250px;
+}
