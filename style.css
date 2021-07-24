@@ -20,4 +20,5 @@ ul>li>a{
     text-decoration: none;
     justify-content: space-between;
     color: black;
+    font-weight: bold;
 }
