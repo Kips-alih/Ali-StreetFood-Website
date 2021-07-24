@@ -23,3 +23,9 @@ ul>li>a{
     font-weight: bold;
     text-align: center;
 }
+.title>h2{
+    color: green;
+}
+em{
+    color: yellow;
+}
