@@ -37,8 +37,11 @@ img{
     float: left;
 }
 #menu>h3{
-    text-align: center;
+    padding-left: 300px;
 }
 #deals>h3{
-    text-align: center;
+    padding-left: 400px;
+}
+#deals>h2{
+    padding-left: 300px;
 }
