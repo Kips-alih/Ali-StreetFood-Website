@@ -5,6 +5,7 @@
 body{
     font-style: normal;
     font-family: 'Times New Roman';
+    
 }
 nav{
     margin: 0 auto;
@@ -32,4 +33,7 @@ em{
 }
 div.deals{
     background-color: #C9ECB5;
+}
+span{
+    color:#6CB840; 
 }
