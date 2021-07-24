@@ -6,3 +6,10 @@ body{
     font-style: normal;
     font-family: 'Times New Roman';
 }
+nav{
+    margin: 0 auto;
+    padding:0.1% 0 ;
+}
+nav>ul{
+    text-align: justify;
+}
