@@ -13,3 +13,6 @@ nav{
 nav>ul{
     text-align: justify;
 }
+ul>li{
+    display: inline;
+}
