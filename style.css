@@ -24,9 +24,12 @@ ul>li>a{
     text-align: center;
 }
 .title>h2>span{
-    color: green;
+    color: #6CB840;
 }
 em{
-    color: orange;
+    color:#EAAB1B;
     font-style: normal;
+}
+div.deals{
+    background-color: #C9ECB5;
 }
