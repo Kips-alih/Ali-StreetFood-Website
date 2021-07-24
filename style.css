@@ -48,3 +48,6 @@ img{
 #contacts>h3{
     padding-left: 300px;
 }
+#contacts>p{
+    text-align: center;
+}
