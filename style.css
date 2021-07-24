@@ -71,11 +71,13 @@ h6{
 }
 #deals{
     background-color: #C9ECB5;
-    border: 1px solid white;
-    width: 50%;
+
 }
 #menu{
     background-color: lightgrey;
-    border: 1px solid white;
-    width: 50%;
+    
+}
+#contacts{
+    background-color:lightpink;
+
 }
