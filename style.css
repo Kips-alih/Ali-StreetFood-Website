@@ -27,5 +27,6 @@ ul>li>a{
     color: green;
 }
 em{
-    color: yellow;
+    color: orange;
+    font-style: normal;
 }
