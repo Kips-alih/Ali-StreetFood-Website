@@ -25,7 +25,6 @@ ul>li>a{
     text-align: center;
 }
 
-
 em{
     color:#EAAB1B;
     font-style: normal;
@@ -36,4 +35,7 @@ span{
 }
 img{
     float: left;
+}
+#menu>h3{
+    text-align: center;
 }
