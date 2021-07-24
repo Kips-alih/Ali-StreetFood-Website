@@ -10,7 +10,7 @@ body{
 nav{
     margin: 0 auto;
     padding:0.1% 0 ;
-    background-color: lightslategrey;
+    background-color: gainsboro;
 }
 nav>ul{
     text-align: justify;
@@ -80,4 +80,7 @@ h6{
 }
 #contacts{
     background-color:lightpink;
+}
+.container{
+    background-color: gainsboro;
 }
