@@ -53,9 +53,6 @@ img{
 #contacts>p{
     text-align: center;
 }
-
-
-
 button{
     border: 1px solid #6CB840;
     width:50px ;
@@ -82,4 +79,8 @@ button{
 }
 .footer{
     background-color:#C9ECB5 ;
+}
+h4{ 
+    color: white;
+    background-color:#6CB840 ;
 }
