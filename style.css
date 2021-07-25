@@ -53,23 +53,18 @@ img{
 #contacts>p{
     text-align: center;
 }
-h5{
-    border: 1px solid white;
-    width:250px ;
-    border-radius: 10px;
-    background-color: white;
-    position: relative;
-    left:200px;
 
-}
-h6{
+
+
+button{
     border: 1px solid #6CB840;
-    width:70px ;
-    border-radius: 20px;
+    width:50px ;
+    border-radius: 70px;
     background-color: #6CB840;
     position: relative;
     left: 250px;
     color: white;
+    height: 10px;
 }
 #deals{
     background-color: #C9ECB5;
