@@ -10,17 +10,18 @@ body{
 nav{
     margin: 0 auto;
     padding:0.1% 0 ;
-    background-color: gainsboro;
-}
+    background-color: gainsboro;}
+
 nav>ul{
-    text-align: justify;
-}
-ul>li{
-    display: inline;
-}
+        text-align: justify;
+    }
+ ul>li{
+        display: inline-flex;
+        
+    }
 ul>li>a{
     text-decoration: none;
-    justify-content: space-between;
+    justify-content: space-evenly;
     color: black;
     font-weight: bold;
     text-align: center;
