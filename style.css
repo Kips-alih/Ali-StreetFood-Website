@@ -54,17 +54,9 @@ span{
 #contacts>p{
     text-align: center;
 }
-button{
-    border: 1px solid #6CB840;
-    width:50px ;
-    border-radius: 70px;
-    background-color: #6CB840;
-    position: relative;
-    left: 250px;
-    color: white;
-    height: 10px;
+
     
-}
+
 #deals{
     background-color: #C9ECB5;
     margin-left: 0px;
@@ -123,6 +115,12 @@ h4{
           border: 1px solid white;
        background-color: lightgrey;
     }
+    .footer{
+        width: 100%;
+        display: flex;
+        margin-bottom: 20px;
+        margin-top: 40px;
+    }
 #working{
     display: flex;
     flex: 4px;
@@ -133,6 +131,20 @@ h4{
     display: flex;
     flex: 10px;
     padding-left: 300px;
+    padding-top: 70px;
+    
+}
+#follow{
+    display: flex;
+    flex: 1px;
+    padding-left: 500px;
+    padding-top: 60px;
+}
+#end{
+ flex: 2px;
+ padding: 60px;
+ margin-top: 60px;
+ margin-bottom: 60px;
 }
 
 
