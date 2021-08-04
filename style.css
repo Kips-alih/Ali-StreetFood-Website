@@ -81,6 +81,9 @@ button{
 }
 #contacts{
     background-color:#FFD77C;
+   margin: 0px;
+   padding: 0px;
+   height: 300px;
 }
 .container{
     background-color: gainsboro;
@@ -120,6 +123,7 @@ h4{
           border: 1px solid white;
        background-color: lightgrey;
     }
+
 
       
 
