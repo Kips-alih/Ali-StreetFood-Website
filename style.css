@@ -123,9 +123,17 @@ h4{
           border: 1px solid white;
        background-color: lightgrey;
     }
-
-
-      
+#working{
+    display: flex;
+    flex: 4px;
+    padding-top:50px ;
+    padding-left: 20px;
+}
+#physical{
+    display: flex;
+    flex: 10px;
+    padding-left: 300px;
+}
 
 
 
