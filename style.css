@@ -10,23 +10,11 @@ body{
 nav{
     margin: 0 auto;
     padding:0.1% 0 ;
-    background-color: gainsboro;}
+    background-color: gainsboro;
+};
 
-nav>ul{
-        text-align: justify;
-    }
- ul>li{
-        display: inline-flex;
-        
-    }
-ul>li>a{
-    text-decoration: none;
-    justify-content: space-evenly;
-    color: black;
-    font-weight: bold;
-    text-align: center;
-}
-
+    
+ 
 em{
     color:#EAAB1B;
     font-style: normal;
@@ -90,5 +78,8 @@ h4{
 }
 #deals>img{
     float: left;
+}
+.navb{
+    justify-content: space-between;
 }
 
