@@ -40,6 +40,7 @@ span{
 }
 #menu>h3{
     padding-left: 300px;
+    text-align: center;
 }
 #deals>h3{
     padding-left: 400px;
@@ -104,6 +105,13 @@ h4{
         align-items: center;
         justify-content:center;
         text-align: center;
+        
       }
+.box{
+        align-items: center;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+}
 
 
