@@ -59,6 +59,7 @@ button{
     left: 250px;
     color: white;
     height: 10px;
+    
 }
 #deals{
     background-color: #C9ECB5;
@@ -90,3 +91,4 @@ h4{
 #deals>img{
     float: left;
 }
+
