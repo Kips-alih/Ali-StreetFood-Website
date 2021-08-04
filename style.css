@@ -131,10 +131,18 @@ h4{
     }
     #burger>img{
         position: absolute;
-        height: 200px;
+        height: 150px;
         width: 200px;
-        bottom: -70px;
-        left: -50px;
+        bottom: -50px;
+        left: -70px;
+    }
+    #burger>p{
+        text-align: right;
+        margin-top: 0px;
+    }
+    #burger>.meal{
+        text-align: left;
+        font-weight: bold;
     }
     .footer{
         width: 100%;
