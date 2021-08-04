@@ -4,7 +4,7 @@
 ## Description
 This is a website that gives information about the type of quality food and offers available in Ali Street Food.
 # Design
-https://user-images.githubusercontent.com/87495436/128264517-796e278e-796a-445c-baad-d305f60913f3.png
+![StreetFood.png](https://user-images.githubusercontent.com/87495436/128264517-796e278e-796a-445c-baad-d305f60913f3.png)
 ## Setup/Installation Requirements
 *git clone and run the url
 # Link to Github gh-pages
