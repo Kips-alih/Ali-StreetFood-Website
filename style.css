@@ -39,7 +39,6 @@ span{
     color:#6CB840; 
 }
 #menu>h3{
-    padding-left: 300px;
     text-align: center;
 }
 #deals>h3{
@@ -113,10 +112,29 @@ h4{
         
       }
       .box{
-          padding: 1px;
-          margin: 2px;
+         align-items: center;
+         display: flex;
+         flex-wrap: wrap;
+         justify-content: center;
           border: 1px solid white;
        background-color: lightgrey;
+       flex-direction: column;
+    }
+    #burger{
+        padding: 15px;
+        margin: 40px;
+        height: 100px;
+        width: 300px;
+        background-color: white;
+        position: relative;
+        border-radius: 0 0 50px 0;
+    }
+    #burger>img{
+        position: absolute;
+        height: 200px;
+        width: 200px;
+        bottom: -70px;
+        left: -50px;
     }
     .footer{
         width: 100%;
