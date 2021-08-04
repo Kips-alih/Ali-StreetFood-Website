@@ -105,13 +105,18 @@ h4{
         align-items: center;
         justify-content:center;
         text-align: center;
+        position: relative;
         
       }
-.box{
-        align-items: center;
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
+      .box{
+          padding: 1px;
+          margin: 2px;
+          border: 1px solid white;
+       background-color: lightgrey;
 }
+
+
+
+
 
 
