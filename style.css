@@ -67,6 +67,12 @@ button{
 }
 #deals{
     background-color: #C9ECB5;
+    margin-left: 0px;
+           margin-right: 0px;
+           padding-right: 0px;
+           padding-left: 0px;
+           width: 1500px;
+           height: 700px;
 
 }
 #menu{
@@ -113,7 +119,9 @@ h4{
           margin: 2px;
           border: 1px solid white;
        background-color: lightgrey;
-}
+    }
+
+      
 
 
 
