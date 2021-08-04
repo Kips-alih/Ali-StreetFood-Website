@@ -97,4 +97,13 @@ h4{
 .navb{
     justify-content: space-between;
 }
+#eat{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        align-items: center;
+        justify-content:center;
+        text-align: center;
+      }
+
 
