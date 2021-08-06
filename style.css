@@ -6,6 +6,11 @@ body{
 }
 .container{
     background-color: gainsboro;
+    height: 450px;
+}
+.size{
+    padding-right: 50px;
+    padding-left: 50px;
 }
 #navbar{
     padding-top: 0px;
@@ -20,18 +25,62 @@ body{
     display: inline-block;
     padding: 50px 45px;
 }
+.eclipse{
+    background-color: #649549;
+    position: absolute;
+  width: 69vw;
+  height:80vw;
+  top: -50em;
+  right: 1em;
+  left: 30em;
+  border-radius: 600px;
+}
+.pepper{
+    position: absolute;
+    top: 370px;
+    right: 460px;
+}
+.semi{
+    position:absolute;
+    border-color: #6CB840;
+    border-style: dotted;
+    right:200px ;
+    top:200px;
+    width: 600px;
+    height: 500px;
+    border-radius:100%;
+   border-bottom: 0;
+   border-left: 0;
+   border-right: 0;
+}
+#one{
+    position: absolute;
+    top: 100px;
+}
+#two{
+    position: absolute;
+    top: 5px;
+    right: 400px;
+}
+#three{
+    position: absolute;
+    top: -2em;
+    right:270px ;
+}
+#four{
+    position: absolute;
+    right: 100px;
+}
+#five{
+    position: absolute;
+    right: 1px;
+    top:100px ;
+}
 .place{
     margin-right: 40px;
     margin-left: 40px;
     padding-right: 80px;
     display: flex;
-}
-.class2{
-    text-align: center;
-    background-color: lightgrey;
-    width: 1230px;
-    margin-left:133px;
-    margin-bottom: 0%;
 }
 em{
     color:#EAAB1B;
@@ -63,38 +112,29 @@ width: 70px;
            margin-right: 0px;
            padding-right: 0px;
            padding-left: 0px;
-           width: 1500px;
-           height: 650px;
+           height: 500px;
 }
 #deals>p{
     text-align: center;
 }
-.meat{
-    float: left;
-    position: relative;
-    bottom: 250px;
-}
+
 #meat{
     position: relative;
     left: -330px;
-    bottom: -70px;
+    bottom: 290px;
 }
-#menu{
-    background-color: lightgrey; 
+#fruit{
+    position: relative;
+    bottom: 340px;
 }
+
+
 #contacts{
     background-color:#FFD77C;
    height: 300px;
-   float: left;
-   width: 1500px;
    margin-top: 0px;
    text-align: center;
-   
 }
-
-
-
-
 .footer{
     background-color:#C9ECB5 ;
 }
@@ -117,8 +157,12 @@ h4{
         text-align: center;
         position: relative;
         
-      }
-      .box{
+}
+.explore{
+    background-color: lightgray;
+    text-align: center;
+}
+     .box{
          align-items: center;
          display: flex;
          flex-wrap: wrap;
